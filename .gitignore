@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+passwords_history.json
+.env
+venv/
+.idea/
+*.swp
